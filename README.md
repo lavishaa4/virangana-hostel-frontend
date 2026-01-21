@@ -36,7 +36,7 @@ A comprehensive web portal for **Delhi Technological University (DTU)** to digit
 
 Since this is a frontend prototype, any username and password works for now.
 
---
+---
 
 ## 🔮 Future Improvements
 
