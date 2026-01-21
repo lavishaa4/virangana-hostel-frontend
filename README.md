@@ -1,16 +1,46 @@
-# React + Vite
+# 🏨 Virangana LaxmiBai Hostel Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A comprehensive web portal for **Delhi Technological University (DTU)** to digitize hostel operations. This frontend application facilitates seamless interaction between students and the hostel administration.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://virangana-hostel-frontend.vercel.app
+](url)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 👩‍🎓 Student Panel
+* **Mess Menu:** View weekly breakfast, lunch, and dinner schedules.
+* **Notice Board:** Real-time important updates with "New" badges.
+* **Complaint Box:** File complaints (Electrical, Plumbing, etc.) and track their status (Pending/Resolved).
+* **Dashboard:** View personal profile and fee status.
+  
+### 🎨 UI/UX
+* **Modern Design:** Clean, responsive interface using glassmorphism effects.
+* **DTU Branding:** Custom color scheme (Maroon/White) matching the university identity.
+* **Responsive:** Fully optimized for Mobile and Desktop views.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js (Vite)
+* **Styling:** CSS3 (Custom Variables, Flexbox, CSS Grid)
+* **Routing:** React Router v6
+* **Icons:** React Icons (FontAwesome & Material Design)
+* **Deployment:** Vercel
+
+---
+
+## 🔑 Login Credentials (Demo)
+
+Since this is a frontend prototype, any username and password works for now.
+
+--
+
+## 🔮 Future Improvements
+
+* **Backend Integration:** Connect to Node.js/MongoDB for real data storage.
+* **Mess Rebate Form:** Allow students to apply for leave from mess meals.
+* **Payment Gateway:** Integrate online fee payment.
+
