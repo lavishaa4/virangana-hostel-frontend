@@ -3,7 +3,7 @@
 A comprehensive web portal for **Delhi Technological University (DTU)** to digitize hostel operations. This frontend application facilitates seamless interaction between students and the hostel administration.
 
 🔗 **Live Demo:** [https://virangana-hostel-frontend.vercel.app
-](url)
+]
 
 ---
 
